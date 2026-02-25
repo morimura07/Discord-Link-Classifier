@@ -1,0 +1,5 @@
+Hello,
+I'm a software engineer.
+My primary focus is website and mobile app development include Desktop app.
+I extensively use React/Next, Python/Django, ExpressJS, NestJS, ReactNative, Flutter, Swift and C++.
+Please feel free to contact me anytime for AI/LLM, Full Stack, Infra or Web3-related development. 
